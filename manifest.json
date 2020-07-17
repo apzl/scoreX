@@ -1,0 +1,25 @@
+{
+
+	"manifest_version": 2,
+	"name": "scoreX",
+	"version": "0.1",
+      
+	"description": "view live football scores and fixtures",
+	"homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+	"icons": {
+	  "48": "pl.jpeg"
+	},
+      
+	"permissions": [
+	  "activeTab"
+	],
+      
+	"browser_action": {
+	  "default_icon": "pl.jpeg",
+	  "default_title": "scoreX",
+	  "default_popup": "page/index.html"
+	}
+      
+	
+      }
+      

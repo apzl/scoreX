@@ -1,0 +1,6 @@
+lmdb
+mmcv-full>=1.2.0
+mmedit
+scikit-image
+tensorboard
+yapf
